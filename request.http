@@ -1,5 +1,5 @@
 
-@subdominio=idat-render-knhd
+@subdominio=idat_rest_examen
 
 
 GET https://{{subdominio}}.onrender.com/idynom
