@@ -1,5 +1,5 @@
 
-@subdominio=idat_rest_examen
+@subdominio=idat-rest-examen
 
 
 GET https://{{subdominio}}.onrender.com/datos
